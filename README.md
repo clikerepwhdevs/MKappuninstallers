@@ -1,0 +1,2 @@
+# MKappuninstallers
+Remove the apps
